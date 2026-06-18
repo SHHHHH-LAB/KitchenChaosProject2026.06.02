@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7dcfc96f71f29c4a8a9611cc34294f9, type: 3}
+  m_Name: BigBurger
+  m_EditorClassIdentifier: 
+  recipeName: "\u5DE8\u65E0\u9738\u6C49\u5821\u5305"
+  kitchenObjctSOsLiat:
+  - {fileID: 11400000, guid: c3855128ab697ec4e9cd755415315a27, type: 2}
+  - {fileID: 11400000, guid: 9330cd9109185e44f9dc83523d9f48d2, type: 2}
+  - {fileID: 11400000, guid: 7a45644c057cdee469b3f5948f8dc981, type: 2}
+  - {fileID: 11400000, guid: 91787fdd087bce64893990d72e756739, type: 2}
+  - {fileID: 11400000, guid: 99ee7c816029ce24089286b40770b000, type: 2}
